@@ -1,5 +1,5 @@
 # lokalny_doktor
-Fivem script | created by MrPauzer#5567
+Fivem script | create by MrPauzer#5567
 
 
 To jest skrypt na doktora (baske). 
